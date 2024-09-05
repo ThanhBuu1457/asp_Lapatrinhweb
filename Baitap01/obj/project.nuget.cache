@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WRi/UuhzppA=",
+  "dgSpecHash": "H7EMyKT4v4k=",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\Lập Trình Web\\Lap_Trinh_Web-main\\Lap_Trinh_Web-main\\Baitap01\\Baitap01.csproj",
+  "projectFilePath": "D:\\Downloads\\Lập Trình Web\\asp_Lapatrinhweb\\Baitap01\\Baitap01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\8.0.8\\microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.8.nupkg.sha512",
