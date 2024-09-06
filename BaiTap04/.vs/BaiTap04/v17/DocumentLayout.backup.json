@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|c:\\users\\admin\\documents\\ltwed\\asp\\baitap04\\baitap04\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|solutionrelative:baitap04\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|c:\\users\\admin\\documents\\ltwed\\asp\\baitap04\\baitap04\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|solutionrelative:baitap04\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|c:\\users\\admin\\documents\\ltwed\\asp\\baitap04\\baitap04\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|solutionrelative:baitap04\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|c:\\users\\admin\\documents\\ltwed\\asp\\baitap04\\baitap04\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|solutionrelative:baitap04\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|c:\\users\\admin\\documents\\ltwed\\asp\\baitap04\\baitap04\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|solutionrelative:baitap04\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|c:\\users\\admin\\documents\\ltwed\\asp\\baitap04\\baitap04\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|solutionrelative:baitap04\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|c:\\users\\admin\\documents\\ltwed\\asp\\baitap04\\baitap04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|solutionrelative:baitap04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|c:\\users\\admin\\documents\\ltwed\\asp\\baitap04\\baitap04\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|solutionrelative:baitap04\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|c:\\users\\admin\\documents\\ltwed\\asp\\baitap04\\baitap04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B438EEBD-A378-44F7-8F44-A0F31551E5A0}|BaiTap04\\BaiTap04.csproj|solutionrelative:baitap04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\.gitignore",
+              "RelativeDocumentMoniker": "BaiTap04\\.gitignore",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\.gitignore*",
+              "RelativeToolTip": "BaiTap04\\.gitignore*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-06T06:57:42.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BaiTap04\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BaiTap04\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T06:56:30.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BaiTap04\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BaiTap04\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T06:55:24.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\Views\\TheLoai\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTap04\\Views\\TheLoai\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\Views\\TheLoai\\Index.cshtml*",
+              "RelativeToolTip": "BaiTap04\\Views\\TheLoai\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T06:54:27.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "BaiTap04\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "BaiTap04\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:51:51.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BaiTap04\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BaiTap04\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:50:10.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BaiTap04\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BaiTap04\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-06T06:50:01.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BaiTap04\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BaiTap04\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T06:48:20.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTap04\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWED\\asp\\BaiTap04\\BaiTap04\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BaiTap04\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T06:48:17.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
