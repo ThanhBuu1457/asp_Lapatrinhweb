@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+<header>
+    <h2>Giới Thiệu</h2>
+</header>
+
+<section>
+    <nav>
+        <ul>
+            <li><a href="~/Trang-Chu">Trang Chu</a></li>
+            
+            <li>@ViewBag.MaSV</li>
+            <li>@ViewBag.Hoten</li>
+            <li>@ViewData["Nam"]</li>
+        </ul>
+    </nav>
+
+    <article>
+        <h1>My Name is Nguyen Thanh Buu</h1>
+        <img src="~/images/z5547034226056_aa4b57060383ea011fd500894f4fa493 .jpg" width=350px height=200px alt="Lỗi hiện thị ảnh" />
+
+    </article>
+</section>
+
+<footer>
+    <p>CopyRight &copy;Nguyễn Thành Bửu @ViewData["Nam"]</p>
+</footer>
+
