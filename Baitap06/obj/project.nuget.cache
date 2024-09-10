@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t4HuMDZDxc8=",
+  "dgSpecHash": "GRwONyo55m4=",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\Lập Trình Web\\Baitap06\\Baitap06.csproj",
+  "projectFilePath": "D:\\Downloads\\Lập Trình Web\\asp_Lapatrinhweb\\Baitap06\\Baitap06.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
