@@ -2,7 +2,7 @@ using Baikiemtra01.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace BaiTap06.Controllers
+namespace Baikiemtra01.Controllers
 {
     public class HomeController : Controller
     {
