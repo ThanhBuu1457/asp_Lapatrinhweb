@@ -1,4 +1,4 @@
-﻿namespace BaiTap06.Models
+﻿namespace Baikiemtra01.Models
 {
     public class TaiKhoanViewModel
     {
