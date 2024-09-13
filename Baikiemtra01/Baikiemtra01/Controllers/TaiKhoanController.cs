@@ -1,5 +1,5 @@
 ﻿
-using BaiTap06.Models;
+using Baikiemtra01.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BaiTap06.Controllers
