@@ -1,46 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\",
+  "WorkspaceRootPath": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_Lapatrinhweb\\Baikiemtra01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|d:\\downloads\\l\u1EADp tr\u00ECnh web\\asp_web-main\\baitap06\\baitap06\\views\\shared\\_layout - copy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\views\\shared\\_layout - copy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|d:\\downloads\\l\u1EADp tr\u00ECnh web\\asp_web-main\\baitap06\\baitap06\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\Views\\Shared\\_Layout - Copy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|d:\\downloads\\l\u1EADp tr\u00ECnh web\\asp_web-main\\baitap06\\baitap06\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|d:\\downloads\\l\u1EADp tr\u00ECnh web\\asp_web-main\\baitap06\\baitap06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|d:\\downloads\\l\u1EADp tr\u00ECnh web\\asp_web-main\\baitap06\\baitap06\\wwwroot\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\wwwroot\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|d:\\downloads\\l\u1EADp tr\u00ECnh web\\asp_web-main\\baitap06\\baitap06\\wwwroot\\assets\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\wwwroot\\assets\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\assets\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|d:\\downloads\\l\u1EADp tr\u00ECnh web\\asp_web-main\\baitap06\\baitap06\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\Views\\TaiKhoan\\DangKy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|d:\\downloads\\l\u1EADp tr\u00ECnh web\\asp_web-main\\baitap06\\baitap06\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\BaiTap06.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|d:\\downloads\\l\u1EADp tr\u00ECnh web\\asp_web-main\\baitap06\\baitap06\\baitap06.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\baitap06.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\Controllers\\TaiKhoanController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|d:\\downloads\\l\u1EADp tr\u00ECnh web\\asp_web-main\\baitap06\\baitap06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AC83FC3-6E06-4C82-9476-419AF2EC1503}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +40,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,49 +56,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout - Copy.cshtml",
               "DocumentMoniker": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\Views\\Shared\\_Layout - Copy.cshtml",
-              "RelativeDocumentMoniker": "BaiTap06\\Views\\Shared\\_Layout - Copy.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\Views\\Shared\\_Layout - Copy.cshtml",
               "ToolTip": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\Views\\Shared\\_Layout - Copy.cshtml",
-              "RelativeToolTip": "BaiTap06\\Views\\Shared\\_Layout - Copy.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAJkAAAAMAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\Views\\Shared\\_Layout - Copy.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T07:50:28.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T07:50:28.062Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "BaiTap06\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\index.html",
               "ToolTip": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\index.html",
-              "RelativeToolTip": "BaiTap06\\wwwroot\\index.html",
+              "RelativeToolTip": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\index.html",
               "ViewState": "AgIAACAAAAAAAAAAAAAQwCYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-09-09T07:47:13.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "main.css",
               "DocumentMoniker": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\assets\\css\\main.css",
-              "RelativeDocumentMoniker": "BaiTap06\\wwwroot\\assets\\css\\main.css",
+              "RelativeDocumentMoniker": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\assets\\css\\main.css",
               "ToolTip": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\assets\\css\\main.css",
-              "RelativeToolTip": "BaiTap06\\wwwroot\\assets\\css\\main.css",
+              "RelativeToolTip": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\assets\\css\\main.css",
               "ViewState": "AgIAAMIQAAAAAAAAAAAQwOIQAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-09-09T07:45:39.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "site.css",
               "DocumentMoniker": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "BaiTap06\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\css\\site.css",
               "ToolTip": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "BaiTap06\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAESAAAAAAAAAAAQwOMQAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-09-09T07:44:54.419Z"
@@ -118,57 +106,56 @@
               "DocumentIndex": 5,
               "Title": "font-awesome.min.css",
               "DocumentMoniker": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\assets\\css\\font-awesome.min.css",
-              "RelativeDocumentMoniker": "BaiTap06\\wwwroot\\assets\\css\\font-awesome.min.css",
+              "RelativeDocumentMoniker": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\assets\\css\\font-awesome.min.css",
               "ToolTip": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\assets\\css\\font-awesome.min.css",
-              "RelativeToolTip": "BaiTap06\\wwwroot\\assets\\css\\font-awesome.min.css",
+              "RelativeToolTip": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\wwwroot\\assets\\css\\font-awesome.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-09-09T07:45:11.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BaiTap06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BaiTap06\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAA4AAABpAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\Views\\Shared\\_Layout.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-09T07:39:10.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "DangKy.cshtml",
               "DocumentMoniker": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\Views\\TaiKhoan\\DangKy.cshtml",
-              "RelativeDocumentMoniker": "BaiTap06\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\Views\\TaiKhoan\\DangKy.cshtml",
               "ToolTip": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\Views\\TaiKhoan\\DangKy.cshtml",
-              "RelativeToolTip": "BaiTap06\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeToolTip": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\Views\\TaiKhoan\\DangKy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-09T06:16:51.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "BaiTap06.csproj",
               "DocumentMoniker": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\BaiTap06.csproj",
-              "RelativeDocumentMoniker": "BaiTap06\\BaiTap06.csproj",
+              "RelativeDocumentMoniker": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\BaiTap06.csproj",
               "ToolTip": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\BaiTap06.csproj",
-              "RelativeToolTip": "BaiTap06\\BaiTap06.csproj",
+              "RelativeToolTip": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\BaiTap06.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-09-09T06:14:43.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "TaiKhoanController.cs",
               "DocumentMoniker": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\Controllers\\TaiKhoanController.cs",
-              "RelativeDocumentMoniker": "BaiTap06\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\Controllers\\TaiKhoanController.cs",
               "ToolTip": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\Controllers\\TaiKhoanController.cs",
-              "RelativeToolTip": "BaiTap06\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\Controllers\\TaiKhoanController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T06:16:10.298Z"
@@ -178,9 +165,9 @@
               "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\Program.cs",
-              "RelativeDocumentMoniker": "BaiTap06\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\Program.cs",
               "ToolTip": "D:\\Downloads\\L\u1EADp Tr\u00ECnh Web\\asp_web-main\\BaiTap06\\BaiTap06\\Program.cs",
-              "RelativeToolTip": "BaiTap06\\Program.cs",
+              "RelativeToolTip": "..\\..\\asp_web-main\\BaiTap06\\BaiTap06\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T06:14:18.722Z"
