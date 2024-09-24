@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PZoawUag2C0=",
+  "dgSpecHash": "19QyTjKxEBc=",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\Lập Trình Web\\BaiKiemTra02\\BaiKiemTra02.csproj",
+  "projectFilePath": "D:\\Downloads\\Lập Trình Web\\asp_Lapatrinhweb\\BaiKiemTra02\\BaiKiemTra02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
